@@ -36,7 +36,8 @@ optional arguments:
                         Output file name
 ```
 ## TODO
-
+In the future, the function of bypassav will be added in the form of modules
+[*]
 ## Credits
-* stephenfewer ([@stephenfewer](https://github.com/stephenfewer/ReflectiveDLLInjection)) 
-* hasherezade ([@hasherezade](https://github.com/hasherezade/pe_to_shellcode)) 
+* stephenfewer ([@ReflectiveDLLInjection](https://github.com/stephenfewer/ReflectiveDLLInjection)) 
+* hasherezade ([@pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)) 
