@@ -35,3 +35,8 @@ optional arguments:
   -o OUTPUT, --output OUTPUT
                         Output file name
 ```
+## TODO
+
+## Credits
+* stephenfewer ([@stephenfewer](https://github.com/stephenfewer/ReflectiveDLLInjection)) 
+* hasherezade ([@hasherezade](https://github.com/hasherezade/pe_to_shellcode)) 
