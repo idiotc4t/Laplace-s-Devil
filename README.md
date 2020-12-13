@@ -1,7 +1,12 @@
 # Laplaces-s-Devil
 Laplaces's Devil is a reflection loading framework
-```bash laplacessdevil.py
-python3 
+
+## Technical principle
+Please visit my blog
+https://idiotc4t.com/defense-evasion/reflectivedllinjection-variation
+## How to usa
+```bash 
+python3 laplacessdevil.py -h
 
  _                 _                     _      ______           _ _
 | |               | |                   ( )     |  _  \         (_) |
