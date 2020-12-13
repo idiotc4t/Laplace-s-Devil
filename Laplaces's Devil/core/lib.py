@@ -1,5 +1,6 @@
 import sys
 import pefile
+import traceback
 
 def get_pe_load(pe_path):
     try:
@@ -21,8 +22,16 @@ def get_pe_bit(pe_file):
     return is64
 
 def write_pe_file(pe_file,pe_name,out_name=""):
+    call_func =traceback.extract_stack()[-2][2]
+
     if out_name =="":
-        out_name = 'edited-' + pe_name
+        if "addit" in call_func:
+            out_name = 'addit-' + pe_name
+        elif "inject" in call_func:
+            out_name = 'inject-' + pe_name
+        elif "patch" in call_func:
+            out_name = 'patch-' + pe_name
+
 
     print("[+] wrote nameof %s" % (out_name))
     open(out_name,'wb').write(pe_file)

@@ -18,7 +18,7 @@ def logo():
                                                                                               
             Laplaces's Devil Is a reflection loading framework 
                                 v1.0 stable!
-                    author idiotc4t@atHuSec Lab!
+                    author idiotc4t@AtSec Lab!
     ''';
      print(title)
 
