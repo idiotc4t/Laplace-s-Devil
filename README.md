@@ -36,7 +36,7 @@ optional arguments:
                         Output file name
 ```
 ## TODO
-In the future, the function of bypassav will be added in the form of modules
+I haven't figured out what to do
 [*]
 ## Credits
 * stephenfewer ([@ReflectiveDLLInjection](https://github.com/stephenfewer/ReflectiveDLLInjection)) 
