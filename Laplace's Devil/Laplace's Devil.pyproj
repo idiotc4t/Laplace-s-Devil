@@ -5,7 +5,7 @@
     <ProjectGuid>22063aa4-c040-4fdf-8a55-5b9940c745bc</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>laplacessdevil.py</StartupFile>
+    <StartupFile>laplacesdevil.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,7 +37,7 @@
     <Compile Include="core\inject.py" />
     <Compile Include="core\lib.py" />
     <Compile Include="core\patch.py" />
-    <Compile Include="laplacessdevil.py" />
+    <Compile Include="laplacesdevil.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\hldr32\hldr32.asm" />
