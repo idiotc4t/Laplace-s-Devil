@@ -41,3 +41,4 @@ I haven't figured out what to do
 ## Credits
 * stephenfewer ([@ReflectiveDLLInjection](https://github.com/stephenfewer/ReflectiveDLLInjection)) 
 * hasherezade ([@pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)) 
+* monoxgas ([@sRDI](https://github.com/monoxgas/sRDI)) 
